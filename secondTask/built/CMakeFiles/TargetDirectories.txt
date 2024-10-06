@@ -1,0 +1,4 @@
+/root/secondTask/built/CMakeFiles/calculator.dir
+/root/secondTask/built/CMakeFiles/secondTask.dir
+/root/secondTask/built/CMakeFiles/edit_cache.dir
+/root/secondTask/built/CMakeFiles/rebuild_cache.dir
